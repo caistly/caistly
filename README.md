@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Obama
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caisticalhour&theme=dark&layout=compact)
