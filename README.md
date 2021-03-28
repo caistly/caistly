@@ -8,5 +8,4 @@
 - 📫 How to reach me: caist#4336
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Obama
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caisticalhour&theme=dark&layout=compact)
+[![Caist's GitHub stats](https://github-readme-stats.vercel.app/api?username=caisticalhour)](https://github.com/anuraghazra/github-readme-stats)
