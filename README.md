@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on nothing as of currently.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about athora.xyz and other projects!
-- 📫 How to reach me: caist#4336
+- 📫 How to reach me: caist#1337
 - 😄 Pronouns: He/Him
 
 
