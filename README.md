@@ -9,4 +9,12 @@
 - 😄 Pronouns: He/Him
 
 
-[![Caist's GitHub stats](https://github-readme-stats.vercel.app/api?username=caisticalhour&show_icons=true&theme=dark)
+![Caist's GitHub stats](https://github-readme-stats.vercel.app/api?username=caisticalhour&show_icons=true&theme=dark)
+
+
+### Projects I've helped with.
+
+- Image.surf / Private/Paid Image Host.
+- Athora.xyz / Unreleased AntiWizz Coming Soon.
+- Clover Tools / Another Unreleased Project, discord tools basically.
+
