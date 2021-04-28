@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [athora.xyz](https://your.mom)
 
-- 🌱 I’m currently trying to master **Java!**
-
 - 👯 I’m looking to collaborate on **nothing!**
 
 - 🤝 I’m looking for help with **your mom**
