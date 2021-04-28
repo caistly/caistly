@@ -4,11 +4,11 @@
 - 🌱 I’m currently (re)learning Java (like the minecraft lang, thought it would be cool to code minecraft mods lol.)
 - 👯 I’m looking to collaborate on nothing as of currently.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/caisticalhour/caisticalhour">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=caisticalhour" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/caisticalhour/AthoraAntiWizz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=AthoraAntiWizz" />
 </a>
 
 ### Projects I've helped with.
