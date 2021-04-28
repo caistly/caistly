@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/caistcodes" target="blank"><img src="https://img.shields.io/twitter/follow/caistcodes?logo=twitter&style=for-the-badge" alt="caistcodes" /></a> </p>
 
-- 🔭 I’m currently working on [athora.xyz](https://your.mom)
+- 🔭 I’m currently working on [Hectic.email](https://hectic.email)
 
 - 👯 I’m looking to collaborate on **nothing!**
 
