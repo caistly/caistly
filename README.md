@@ -7,13 +7,13 @@
 <a href="https://github.com/caisticalhour/caisticalhour">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=caisticalhour" />
 </a>
-<a href="https://github.com/caisticalhour/AthoraAntiWizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=AthoraAntiWizz" />
+<a href="https://github.com/caisticalhour/athora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=athora" />
 </a>
 
 ### Projects I've helped with.
 
 - Image.surf / Private/Paid Image Host.
-- Athora.xyz / Unreleased AntiWizz Coming Soon.
-- Clover Tools / Another Unreleased Project, discord tools basically.
+- Athora.xyz / Unreleased Tool Service Coming Soon.
+- Hectic.email / Good Email Service! 10/10
 
