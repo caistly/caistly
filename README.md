@@ -10,6 +10,8 @@
 <a href="https://github.com/caisticalhour/athora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caisticalhour&repo=athora" />
 </a>
+<a href="![Caist's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)"
+</a> 
 
 ### Projects I've helped with.
 
