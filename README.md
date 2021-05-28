@@ -9,7 +9,7 @@ contact: c@hectic.email
 
 TKperson:
   - Hey! :D
-  - If you're reading this, you're probably here to take my code and repurpose it for better reasons.c
+  - If you're reading this, you're probably here to take my code and repurpose it for better reasons.
 
 Skills:
 - js, py, go, html, css
