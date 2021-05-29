@@ -7,7 +7,7 @@ userIs: Caist
 nick: Caist
 contact: c@hectic.email
 
-TKperson:
+CAIst:
   - Hey! :D
   - If you're reading this, you're probably here to take my code and repurpose it.
 
