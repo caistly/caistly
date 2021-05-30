@@ -1,17 +1,15 @@
-### Caist was here...
 
-<img align="right" alt="a" width="300px" height="300px" src="https://raw.githubusercontent.com/TKperson/TKperson/main/assets/a.png" />
+<h2 align="center">Caist's Stats</h2>
+<a href="https://github.com/caisticalhour">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=caisticalhour" alt="Profile Views">
+  </p>
+</a>
 
-```yaml
-userIs: Caist
-nick: Caist
-contact: c@hectic.email
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=caisticalhour&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-CAIst:
-  - Hey! :D
-  - If you're reading this, you're probably here to take my code and repurpose it.
-
-Skills:
-- js, py, go, html, css
-```
-
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/591269327018131486.png" />
+</p>
