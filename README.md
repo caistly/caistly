@@ -2,7 +2,7 @@
 <h2 align="center">Caist's Stats</h2>
 <a href="https://github.com/caisticalhour">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=caisticalhour" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=caistly" alt="Profile Views">
   </p>
 </a>
 
