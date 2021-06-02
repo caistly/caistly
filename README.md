@@ -14,7 +14,3 @@
   <img src="https://discord.c99.nl/widget/theme-4/591269327018131486.png" />
 </p>
 
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caistly&theme=nord&margin-w=15&margin-h=15&column=7" />
-</p>
