@@ -15,4 +15,4 @@
 </p>
 
 
-caist was here <3
+<p align="center">Caist is Incredibly Funny> 
