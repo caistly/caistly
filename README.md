@@ -7,4 +7,6 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/859858373855281162/860058933763112970/test2.png" />
 </p>
+
+<P align="center">we do a little trolling.
  
