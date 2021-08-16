@@ -6,5 +6,5 @@
 
 
 
-<P align="center">console.log(colors.cyan('fart smellas inc.')
+<P align="center">console.log(colors.cyan('fart smellas inc.'))
  
